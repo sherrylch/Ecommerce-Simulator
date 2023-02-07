@@ -3,7 +3,7 @@
 https://youtu.be/sd0ZlxQFKKo
 
 ## **Description:**
-This application was designed to simulate a shopping cart.
+This application was designed with python to simulate an e-commerce.
 We can add funds to the account, see account balance, add products to the cart, view shopping cart, and checkout shopping cart using this application.
 
 Let's Go Shopping allows users to interact with the application by navigating the main menu and selecting what they want to do. In the following we will go over each function to explain their role in the application.
